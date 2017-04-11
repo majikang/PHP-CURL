@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
-<title>用户列表</title>
+<title>鍏Н閲戞煡璇㈢郴缁�</title>
 <style>
 #user_list li{position:relative;left:0;top:0;height:auto;}
 #user_list li div.info{width:580px; margin:5px;}
@@ -13,8 +13,8 @@ div.info table,div.info td{border:1px solid #ccc;}
 </head>
 <body><?php
 $info=array(
-	"李四"=>"222222222222222222",
-	"张三"=>"222222222222222222"
+	"鑱屽伐濮撳悕"=>"222222222222222222",
+	"鑱屽伐璐﹀彿"=>"222222222222222222"
 );
 ?>
 <ul id="user_list"><?php
